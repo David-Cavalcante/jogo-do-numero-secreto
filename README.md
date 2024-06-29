@@ -16,6 +16,6 @@ Este é um simples jogo desenvolvido em HTML, CSS e JavaScript onde você deve a
 4. Continue tentando até acertar o número secreto!
 5. Clique em "Novo jogo" para reiniciar o jogo a qualquer momento.
 
-## divirta-se jogando o número secreto
+## Divirta-se jogando o número secreto e que comece a adivinhação
 https://david-cavalcante.github.io/jogo-do-numero-secreto/
 
