@@ -2,6 +2,8 @@
 
 Este é um simples jogo desenvolvido em HTML, CSS e JavaScript onde você deve adivinhar um número secreto entre 1 e 10.
 
+![jogo](numerosecreto.png)
+
 ## Funcionalidades
 
 - Escolha um número entre 1 e 10.
